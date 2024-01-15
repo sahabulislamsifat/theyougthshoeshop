@@ -1,0 +1,117 @@
+body {
+  font-family: "Bebas Neue", cursive !important;
+  font-family: "Roboto", sans-serif !important;
+  color: #363958;
+}
+
+h1 {
+  font-family: "Bebas Neue", cursive !important;
+}
+
+h2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+p {
+  font-size: 16px !important;
+  line-height: 26px;
+}
+
+header h1 {
+  font-size: 80px;
+}
+
+main h1 {
+  font-size: 40px;
+}
+
+.header-1 {
+  color: #fa804c;
+}
+
+header {
+  background-color: #fff7f4;
+}
+
+.nav-link {
+  font-weight: 700;
+  color: black;
+}
+
+.shoe {
+  border-radius: 20px;
+  background-color: #f1f1f1;
+}
+
+.about {
+  border-radius: 20px;
+}
+
+.card {
+  border-radius: 20px;
+  border: 0;
+}
+
+@media (max-width: 576px) {
+  .respon-pic {
+    width: 500px !important;
+  }
+  .mobile-respon {
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+}
+
+.card-footer {
+  background-color: #ffff;
+  border: 0;
+}
+
+.card-footer h1 {
+  color: #fa804c;
+  font-weight: 700;
+}
+
+.buy-button {
+  font-weight: 500;
+  color: white;
+  background: linear-gradient(180deg, #d34ff3 0%, #3543bc 100%);
+  border-radius: 10px;
+  border: 0;
+  width: 170px;
+}
+
+.section-footer ul li {
+  margin-bottom: 5px;
+}
+
+.section-footer ul a {
+  color: inherit;
+}
+
+.section-footer ul a:hover {
+  color: #3167eb;
+}
+
+.section-footer .logo-footer {
+  height: 40px;
+}
+
+.section-footer .title {
+  font-weight: 600;
+  margin-bottom: 16px;
+  color: #1e2024;
+}
+
+.footer-bottom {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer-copyright {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
